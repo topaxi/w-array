@@ -1,0 +1,16 @@
+{
+  "name": "w-array",
+  "version": "1.0.0",
+  "description": "Ruby-like word array",
+  "main": "index.js",
+  "repository": "https://github.com/topaxi/w-array.git",
+  "author": "Damian Senn <damian.senn@topaxi.codes>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
