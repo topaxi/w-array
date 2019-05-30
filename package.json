@@ -1,6 +1,6 @@
 {
   "name": "w-array",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ruby-like word array",
   "main": "index.js",
   "module": "index.mjs",
